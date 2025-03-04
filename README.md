@@ -87,7 +87,7 @@ These insights extend beyond transformer models to broader AI alignment challeng
 ## Installation
 
 ```bash
-pip install multi-model-optimizer
+pip install torch loguru numpy transformers datasets
 ```
 
 ## Basic Usage
