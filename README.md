@@ -56,7 +56,6 @@ MultiModelOptimizer enables efficient joint training of multiple transformer arc
 
 - [Paper (PDF)](paper.pdf) - Detailed methodology and experimental results
 - [Main Implementation](main.py) - Core optimizer implementation and example usage
-- [Example Notebook](examples/sentiment_analysis.ipynb) - Interactive walkthrough with sentiment analysis
 
 ## How It Works
 
